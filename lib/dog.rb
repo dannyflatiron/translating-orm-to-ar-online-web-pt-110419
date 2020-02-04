@@ -1,5 +1,7 @@
 class Dog
 
-  ActiveRecord::Base.establish
+  ActiveRecord::Base.establish_connection(
+  
+  )
 
 end
