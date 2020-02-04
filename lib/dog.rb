@@ -1,7 +1,3 @@
-class Dog
-
-  ActiveRecord::Base.establish_connection(
-  
-  )
+class Dog < ActiveRecord::Base
 
 end
