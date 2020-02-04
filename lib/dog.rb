@@ -1,5 +1,5 @@
 class Dog
 
-  ActiveRecord::Base
-  
+  ActiveRecord::Base.establish
+
 end
